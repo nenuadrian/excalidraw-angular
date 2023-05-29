@@ -11,3 +11,5 @@ ReactDOM.render(
       document.getElementById('root')
     );
 ```
+
+<img src="https://github.com/nenuadrian/excalidraw-angular/raw/main/screen.jpg" alt="Demo" />
